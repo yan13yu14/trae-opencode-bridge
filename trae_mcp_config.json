@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "opencode-bridge": {
+      "command": "<你的 uv.exe 绝对路径，终端执行 where uv 查看>",
+      "args": [
+        "run",
+        "<本仓库的绝对路径>\\bridge_server.py"
+      ]
+    }
+  }
+}

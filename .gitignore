@@ -1,0 +1,10 @@
+# 求助日志（含用户项目的报错与代码上下文，严禁提交）
+logs/
+
+# 本机状态文件
+bridge_config.json
+
+# Python 产物
+__pycache__/
+*.pyc
+.venv/
